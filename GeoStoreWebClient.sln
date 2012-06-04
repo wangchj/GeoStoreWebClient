@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoStoreWebClient", "GeoStoreWebClient\GeoStoreWebClient.csproj", "{C07922EC-82EB-4D13-8E2E-5009ABAA37BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoStoreClient", "GeoStoreClient\GeoStoreClient.csproj", "{F3574A56-2E8C-4502-B8AF-0E7BB66EA96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C07922EC-82EB-4D13-8E2E-5009ABAA37BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07922EC-82EB-4D13-8E2E-5009ABAA37BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07922EC-82EB-4D13-8E2E-5009ABAA37BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07922EC-82EB-4D13-8E2E-5009ABAA37BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3574A56-2E8C-4502-B8AF-0E7BB66EA96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3574A56-2E8C-4502-B8AF-0E7BB66EA96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3574A56-2E8C-4502-B8AF-0E7BB66EA96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3574A56-2E8C-4502-B8AF-0E7BB66EA96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
