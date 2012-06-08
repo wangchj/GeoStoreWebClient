@@ -599,6 +599,7 @@ input.<%=ClSpTextField%>
     function init_codemirror() {
         var myTextArea = document.getElementById("<%=TextQueryInput.ClientID %>");
         myCodeMirror = CodeMirror.fromTextArea(myTextArea, {
+            lineWrapping: true,
             lineNumbers: true,
             indentUnit: 4,
             onChange: editorContentChanged    
